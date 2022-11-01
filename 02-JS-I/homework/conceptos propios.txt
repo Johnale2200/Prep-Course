@@ -1,0 +1,17 @@
+Variables: 
+es una  espacio de memoria que le asignamos un nombre y le anteponemos la palabra var que sera utilizada para guardar informacion que 
+usaremos a lo largo del proyecto.
+
+
+Strings:
+son cadenas de caracteres con las cuales reptresentamos datos textuales 
+
+Funciones:
+son bloques de codigos diseñados para transcribirse una sola vez y ser reusados varias veces.
+
+Argumentos return:
+es un comando que utilizamos para detener la ejecucion del bloque de codigo de una funcion.
+
+valores boleanos:
+son aquellos que nos arrojan como resultado True o False
+ya que es un operador logico de comparacion 
