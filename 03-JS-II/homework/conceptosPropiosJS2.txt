@@ -1,0 +1,10 @@
+
+Bucles for: es un bucle que sirve para la realizacion  de tareas repetidas.
+
+&& es un operador logico de comparacion que  ejecutara un codigo si  todas 
+las expresiones son true.
+
+|| es un operador logico de comparacion que ejecutara un codigo con que 
+alguna expresion sea true, y  no ejecutara el codogo si todas las expresiones son false.
+
+! es un operador de retornara un valor boleano opuesto.
