@@ -1,0 +1,18 @@
+objetos: 
+son muy parecidos a los arrays con la particularidad que no poseen un indice numerico, en ellos podemos tener informacion detallada y de 
+ademas almacena cualquier tipo de dato : una string, numero, funcion (metodo),un array, etc
+
+propiedades:
+son los elementos que conforman un objeto.
+
+metodo: 
+es un funcion que se encuetra dentro de un objeto.
+
+bucle for in:
+en un bucle que intera especialmente para recorrer un objeto.
+
+notacion de puntos: 
+sirve para ecceder de forma literal a alguna propiedad del objeto
+
+notacion por corchetes: 
+apunta a datos tipo un string o numerico unque posee multiples funcionalidades 
