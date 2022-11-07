@@ -1,0 +1,2 @@
+callback: 
+en una funcion que se ha pasado a otra funcion en modo de parametros 
