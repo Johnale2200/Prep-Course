@@ -1,0 +1,3 @@
+array:
+es una lista que tienen un indice y este indice empieza desde la pasicion cero(0)
+en los array podemos almacenar todos los datos de JavaScrip
