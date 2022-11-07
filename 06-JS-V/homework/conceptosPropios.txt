@@ -1,0 +1,6 @@
+prototype:
+es un objeto de referencia,
+el prototype es un espacio en  donde se pueden extraer propiedades, funciones entre otros.
+
+constructor / clases :
+permier construir nuevos objetos o instancias, puede asemnejarce a una 'fabrica' 
